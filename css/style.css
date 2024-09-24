@@ -161,7 +161,7 @@ nav{
     color: #333;
 }
 .plan .price {
-    background-color: #2cc762;
+    background-color: #56c52b;
     width: 120px;
     height: 120px;
     color: #fff;
@@ -183,7 +183,7 @@ nav{
 }
  
 .plan .plan-btn{
-    background-color: #2cc762;
+    background-color: #ffee06;
     color: #fff;
     font-size: 24px;
     height: 75px;
@@ -194,7 +194,7 @@ nav{
     background-color: #f45c57;
 }
 .searchdomain-container{
-    background-color: #333;
+    background-color: #70b36a;
     text-align: center;
     padding: 5rem 0;
 }
@@ -205,7 +205,7 @@ nav{
  
 }
 .searchdomain-container p {
-    color: #d5d5d5;
+    color: #333;
     font-size: 24px;
     margin-bottom: 25px;
 }
@@ -223,7 +223,7 @@ nav{
     margin-bottom: 25px;
 }
 .searchdomain-container input[type = "submit"]{
-   background-color: #2cc762;
+   background-color: #77c72c;
    padding: 15px 30px;
    color: #fff;
    font-size: 24px;
